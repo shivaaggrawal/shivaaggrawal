@@ -1,47 +1,113 @@
-# 🏴‍☠️ Welcome to my Grand Line! 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shiva%20Agrawal&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=shivaaggrawal">
+    <img src="https://komarev.com/ghpvc/?username=shivaaggrawal&label=Profile%20views&color=00FFFF&style=flat-square" alt="shivaaggrawal's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 👯 I'm looking to collaborate on full-stack web applications, AI integrations, and hackathon projects.
+- 🤝 I'm looking for help with scaling cloud architecture and optimizing clinical prediction models like MediSense AI.
+- 💬 Ask me about building interactive UI components in React, Data Structures in C++, or organizing e-commerce dropshipping!
+- ⚡ Fun fact: I occasionally stay up coding past 3:00 AM during intense overnight hackathons.
+
+
+## 🧠 My Focus Areas
+- Full-Stack Web Development (React, Tailwind)
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms (C++)
+- Parallel Computing & Optimization (CUDA)
+- Cloud Architecture
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/shivaaggrawal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivaaggrawal&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="shivaaggrawal's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shivaaggrawal&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="shivaaggrawal's GitHub Streak" width="49%" />
+</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqM2h1MHFxeTV3OHV5M2h5ZDRpeHQ3bWV2cWNvdjU5cXQ0eDdzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oQYlOQElXG7Fm/giphy.gif" width="400" alt="Luffy Gear Second Animation"/>
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-> *"I don't want to conquer anything. It's just that the person with the most freedom on the sea is the Pirate King." – Monkey D. Luffy*
 
----
+## 🛠️ Languages & Tools
 
-## ⚓ About My Voyage
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-Ahoy! I'm a passionate developer setting sail to conquer the tech world. Just like Luffy gathers his crew, I love collaborating with amazing people to build legendary projects and sail through complex bugs. 
+</p>
 
-*   🔭 **Current Quest:** Building scalable, user-friendly web applications.
-*   🌱 **Training Arc:** Mastering Cloud Architecture and Artificial Intelligence.
-*   👯 **Looking for a Crew:** Open to collaborating on exciting Open Source projects.
-*   ⚡ **Devil Fruit Power:** Turning coffee into clean, efficient code!
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
----
+</p>
 
-## 🍖 My Haki (Tech Stack)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
 
-Here are the tools I use to defeat bugs and build grand projects:
+</p>
 
-*   **Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-*   **Frameworks:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-*   **Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
----
+</p>
 
-## 📜 Pirate Bounties (GitHub Stats)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivaaggrawal">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shivaaggrawal&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiva-agrawal-048ba2361/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/918824662673">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shiva5869agrawal@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_color=ff0000" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=ff0000" alt="GitHub Streak" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <h3>Let's set sail together! 🚢</h3>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <br/><br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/8254/8254645.png" width="60" alt="Straw Hat"/>
-</div>
