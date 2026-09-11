@@ -22,11 +22,8 @@
   <a href="https://github.com/shivaaggrawal">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shivaaggrawal&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="shivaaggrawal's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=shivaaggrawal&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="shivaaggrawal's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaaggrawal&theme=tokyonight&hide_border=true" alt="shivaaggrawal's GitHub Streak" width="49%" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
